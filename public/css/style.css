@@ -1,0 +1,88 @@
+* {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+nav {
+  display: flex;
+  justify-content: right;
+  margin-bottom: 50px;
+  background-color: #d82222;
+  padding: 10px;
+}
+.imgNintendo {
+  width: 500px;
+  height: 500px;
+  display:block;
+  margin: 0 auto;
+}
+body ul li {
+  margin: 5px;
+;
+}
+ul {
+  margin: 0;
+  padding: 0;
+}
+li {
+  display: inline-block;
+  margin-right: 10px;
+}
+a {
+  font-weight: 700;
+  font-size: large;
+  text-decoration: none;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+a:hover {
+  background-color: #861515;
+  color: #f2f2f2;
+}
+
+h1 {
+  color: #cb3e3e;
+  text-align: center;
+}
+
+h3 {
+  padding: 40px 40px 40px 15px;
+}
+body ol li {
+  padding: 10px;
+  width: 1400px;
+}
+
+p {
+  
+  line-height: 1.5;
+  padding: 0px 20px 20px 10px;
+}
+
+ol {
+
+  padding-left: 20px;
+  padding-bottom: 20px;
+}
+
+.imagenes {
+  display:flex;
+  flex-direction:column;
+  justify-items: center;
+  margin-bottom: 20px;
+  margin-left: 540px;
+width: 600px;
+height: 350px;
+}
+
+body p {
+  margin-left: 240px;
+  display: block;
+  text-align: center;
+  width: 1250px;
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
